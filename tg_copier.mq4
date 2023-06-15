@@ -85,7 +85,7 @@ string   token = "";//Enter API Token
 string   InpIncludedSymbols = "";//Included symbols (if multiple, separate by commas)
 
 string     InpSep42          = "";//============CHANNEL SETTINGS============
-string     InpChannel          = "Premium Golden Circle";//Takes trades from this channel only
+string     InpChannel          = "Gold Trader Mo";//Takes trades from this channel only
 input string     InpSep40          = "";//============COMMAND SETTINGS============
 input string     InpOTCmds         = "buy,sell,buying,selling,buystop,sellstop,buylimit,selllimit";//Ordertype commands (not case sensitive)
 input string     InpCloseCmds      = "close,delete,collect";//Close commands
