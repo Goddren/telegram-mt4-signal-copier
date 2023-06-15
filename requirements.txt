@@ -1,0 +1,11 @@
+os-sys
+time
+threading
+datetime
+twilio
+telethon
+pytesseract
+pillow
+numpy
+opencv-python
+PyQt5
