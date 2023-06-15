@@ -75,7 +75,7 @@ enum RESTART_DAY
    Sunday1,//Sunday
   };
 
-string   token = "";//Enter API Token
+string   token = "6144577486:AAEnfEms-f1hq_-dmz65s1N7QH2aSC_L7i4";//Enter API Token
 
 
 //+------------------------------------------------------------------+
